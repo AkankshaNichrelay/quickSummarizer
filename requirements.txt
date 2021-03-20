@@ -18,7 +18,7 @@ gensim==3.7.3
 gensim-sum-ext==0.1.2
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 jsonschema==2.6.0
 lxml==4.3.3
